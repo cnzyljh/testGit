@@ -10,5 +10,6 @@ public class TestGitApplication {
 		SpringApplication.run(TestGitApplication.class, args);
 		System.out.print("12312");
 		System.out.print("1231");
+		System.out.print("1231");
 	}
 }
